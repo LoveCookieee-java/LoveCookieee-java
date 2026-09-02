@@ -27,14 +27,14 @@
 
 <table border="0" style="border: none;">
   <tr border="0">
-    <td width="25%" align="center" style="border: none; vertical-align: middle;">
+    <td width="26%" align="center" style="border: none; vertical-align: middle;">
       <a href="https://github.com/LoveCookieee-java">
-        <img src="./assets/pixel_cookie.svg" width="150" height="150" alt="Minecraft Pixel Cookie Mascot" style="image-rendering: pixelated; shape-rendering: crispEdges; filter: drop-shadow(0 4px 12px rgba(245, 158, 11, 0.45));" />
+        <img src="./assets/pixel_cookie.png" width="160" height="160" alt="HD Minecraft Pixel Cookie" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(245, 158, 11, 0.45); border: 3px solid #d97706;" />
       </a>
       <br />
-      <small><font color="#f59e0b"><b>🍪 Minecraft Pixel Cookie</b></font></small>
+      <small><font color="#f59e0b"><b>🍪 HD Minecraft Pixel Cookie</b></font></small>
     </td>
-    <td width="75%" style="border: none; vertical-align: middle; padding-left: 20px;">
+    <td width="74%" style="border: none; vertical-align: middle; padding-left: 20px;">
       <p align="left">
         Chào mừng bạn ghé thăm tiệm bánh nhỏ ấm cúng của mình giữa thế giới mã nguồn! Mình là một <b>Giáo viên Tiếng Anh</b> yêu thích công nghệ, một <b>Backend &amp; AI/ML Engineer</b> say mê nghệ thuật lập trình và "vibe code". Mình luôn khao khát nhào nặn nên những sản phẩm thật chỉn chu, mang lại giá trị hữu ích và hỗ trợ cộng đồng hết mình. 🍪✨
       </p>
@@ -66,8 +66,8 @@ current_focus:
 ### 🌪️ Cơn Lốc Xoáy Quỹ Đạo Công Nghệ (The Ingredient Vortex Orbit)
 
 <div align="center">
-  <!-- Interactive & Animated Cosmic Tech Stack Vortex SVG -->
-  <img src="./assets/tech_vortex.svg" width="100%" alt="Tech Stack Vortex Orbit" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
+  <!-- Validated & High-Fidelity Animated Cosmic Tech Stack Vortex SVG -->
+  <img src="./assets/tech_vortex.svg" width="100%" alt="Tech Stack Vortex Orbit" style="border-radius: 14px;" />
 </div>
 
 <br />
