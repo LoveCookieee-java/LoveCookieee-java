@@ -63,11 +63,11 @@ current_focus:
 
 ---
 
-### 🌪️ Cơn Lốc Xoáy Quỹ Đạo Công Nghệ (The Ingredient Vortex Orbit)
+### 🛠️ Runtime · Framework · Tools · Languages
 
 <div align="center">
   <!-- Validated & High-Fidelity Animated Cosmic Tech Stack Vortex SVG -->
-  <img src="./assets/tech_vortex.svg" width="100%" alt="Tech Stack Vortex Orbit" style="border-radius: 14px;" />
+  <img src="./assets/tech_vortex.svg" width="100%" alt="Runtime, Frameworks, Tools and Languages Matrix" style="border-radius: 14px;" />
 </div>
 
 <br />
@@ -273,3 +273,4 @@ current_focus:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,35:b45309,70:78350f,100:2d1e18&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
+

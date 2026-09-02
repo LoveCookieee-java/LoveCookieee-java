@@ -62,8 +62,8 @@
 
   <!-- Header Text -->
   <g text-anchor="middle" transform="translate(460, 40)">
-    <text class="vortex-header" filter="url(#glowGold)">THE INGREDIENT VORTEX ORBIT</text>
-    <text y="22" class="vortex-sub">Multitier Cosmic Orbit Swirling Around The Pixel Cookie Core</text>
+    <text class="vortex-header" filter="url(#glowGold)">LANGUAGES · RUNTIMES · FRAMEWORKS · TOOLS</text>
+    <text y="22" class="vortex-sub">Architectural Ecosystem Orbiting The Core Engine</text>
   </g>
 
   <!-- VORTEX ORBITAL RINGS -->
@@ -239,3 +239,4 @@
   </g>
 
 </svg>
+
