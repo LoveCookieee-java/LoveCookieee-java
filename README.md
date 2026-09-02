@@ -27,14 +27,14 @@
 
 <table border="0" style="border: none;">
   <tr border="0">
-    <td width="28%" align="center" style="border: none; vertical-align: middle;">
+    <td width="25%" align="center" style="border: none; vertical-align: middle;">
       <a href="https://github.com/LoveCookieee-java">
-        <img src="./assets/cookie_mascot.png" width="190" alt="Artisan Cookie Mascot" style="border-radius: 50%; border: 3px solid #d97706;" />
+        <img src="./assets/pixel_cookie.svg" width="150" height="150" alt="Minecraft Pixel Cookie Mascot" style="image-rendering: pixelated; shape-rendering: crispEdges; filter: drop-shadow(0 4px 12px rgba(245, 158, 11, 0.45));" />
       </a>
       <br />
-      <small><font color="#f59e0b"><b>🍪 Freshly Baked With Love</b></font></small>
+      <small><font color="#f59e0b"><b>🍪 Minecraft Pixel Cookie</b></font></small>
     </td>
-    <td width="72%" style="border: none; vertical-align: middle; padding-left: 20px;">
+    <td width="75%" style="border: none; vertical-align: middle; padding-left: 20px;">
       <p align="left">
         Chào mừng bạn ghé thăm tiệm bánh nhỏ ấm cúng của mình giữa thế giới mã nguồn! Mình là một <b>Giáo viên Tiếng Anh</b> yêu thích công nghệ, một <b>Backend &amp; AI/ML Engineer</b> say mê nghệ thuật lập trình và "vibe code". Mình luôn khao khát nhào nặn nên những sản phẩm thật chỉn chu, mang lại giá trị hữu ích và hỗ trợ cộng đồng hết mình. 🍪✨
       </p>
@@ -63,13 +63,11 @@ current_focus:
 
 ---
 
-### 🥖 Nguyên Liệu & Công Cụ (Tech Stack & Toolbelt)
+### 🌪️ Cơn Lốc Xoáy Quỹ Đạo Công Nghệ (The Ingredient Vortex Orbit)
 
 <div align="center">
-  <!-- Interactive & Crisp Vector Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,py,cpp,cs,rust,html,js,react,git,docker,linux,idea,vscode&theme=dark" alt="Skill Icons" />
-  </a>
+  <!-- Interactive & Animated Cosmic Tech Stack Vortex SVG -->
+  <img src="./assets/tech_vortex.svg" width="100%" alt="Tech Stack Vortex Orbit" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
 </div>
 
 <br />
@@ -80,9 +78,9 @@ current_focus:
 
 | Kệ Bếp (Category) | Nguyên Liệu & Công Nghệ (Technologies) |
 | :--- | :--- |
-| **Ngôn ngữ chủ đạo** | `Java (Chuyên sâu)`, `TypeScript`, `Python`, `C++`, `C#`, `Rust`, `JavaScript`, `HTML5/CSS3`, `SkriptLang` |
-| **Giao diện & Ứng dụng** | `React.js`, `Modern HTML/CSS`, `Responsive UI Components` |
-| **Minecraft Platform** | `Spigot API`, `PaperMC`, `Bukkit`, `PySpigot Engine`, `Packet Level / NMS` |
+| **Lõi Ngôn ngữ (Core)** | `Java (Chuyên sâu ★★★★★)`, `Python`, `TypeScript`, `Rust`, `C++`, `C#` |
+| **Giao diện & Web** | `React.js`, `JavaScript`, `HTML5 / CSS3`, `Responsive UI Components` |
+| **Minecraft Platform** | `Spigot API`, `PaperMC`, `Bukkit`, `PySpigot Engine`, `SkriptLang`, `Packet Level / NMS` |
 | **Môi trường & Công cụ** | `IntelliJ IDEA`, `VS Code`, `Git`, `Docker`, `Linux`, `Maven`, `Gradle` |
 
 </details>

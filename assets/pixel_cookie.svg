@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="256" height="256" shape-rendering="crispEdges">
+  <defs>
+    <!-- Soft Glow Filter for Pixel Art -->
+    <filter id="pixelGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#f59e0b" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Outline / Shadow Pixel Layer (#2d1607) -->
+  <g fill="#281306">
+    <!-- Top & Bottom horizontal borders -->
+    <rect x="10" y="3" width="12" height="2"/>
+    <rect x="10" y="27" width="12" height="2"/>
+    <!-- Diagonals top -->
+    <rect x="6" y="5" width="4" height="2"/>
+    <rect x="22" y="5" width="4" height="2"/>
+    <rect x="4" y="7" width="2" height="3"/>
+    <rect x="26" y="7" width="2" height="3"/>
+    <!-- Left & Right sides -->
+    <rect x="2" y="10" width="2" height="12"/>
+    <rect x="28" y="10" width="2" height="12"/>
+    <!-- Diagonals bottom -->
+    <rect x="4" y="22" width="2" height="3"/>
+    <rect x="26" y="22" width="2" height="3"/>
+    <rect x="6" y="25" width="4" height="2"/>
+    <rect x="22" y="25" width="4" height="2"/>
+  </g>
+
+  <!-- Dark Baked Crust Layer (#78350f / #8c4210) -->
+  <g fill="#873f11">
+    <rect x="10" y="5" width="12" height="2"/>
+    <rect x="6" y="7" width="4" height="3"/>
+    <rect x="22" y="7" width="4" height="3"/>
+    <rect x="4" y="10" width="2" height="12"/>
+    <rect x="26" y="10" width="2" height="12"/>
+    <rect x="4" y="20" width="4" height="3"/>
+    <rect x="24" y="20" width="4" height="3"/>
+    <rect x="8" y="24" width="16" height="3"/>
+  </g>
+
+  <!-- Golden Wheat Dough Body (#d97706 / #c26915) -->
+  <g fill="#c9741c">
+    <rect x="6" y="10" width="20" height="13"/>
+    <rect x="10" y="7" width="12" height="3"/>
+    <rect x="8" y="8" width="16" height="2"/>
+  </g>
+
+  <!-- Warm Highlight / Surface Crispy Layer (#f59e0b / #e8952a) -->
+  <g fill="#e89830">
+    <rect x="10" y="7" width="10" height="2"/>
+    <rect x="8" y="9" width="6" height="3"/>
+    <rect x="18" y="9" width="6" height="3"/>
+    <rect x="6" y="12" width="4" height="6"/>
+    <rect x="12" y="14" width="8" height="4"/>
+  </g>
+
+  <!-- Shiny Golden Highlights (#fed782 / #fde68a) -->
+  <g fill="#fed782">
+    <rect x="11" y="7" width="4" height="1"/>
+    <rect x="9" y="9" width="2" height="2"/>
+    <rect x="19" y="9" width="2" height="2"/>
+    <rect x="7" y="13" width="2" height="2"/>
+  </g>
+
+  <!-- Authentic Minecraft Chocolate Chips / Cocoa Chunks (#1f0e04 & #451a03) -->
+  <!-- Chip 1 (Top Left) -->
+  <rect x="10" y="10" width="3" height="3" fill="#1b0c04"/>
+  <rect x="11" y="11" width="3" height="3" fill="#381807"/>
+  <rect x="13" y="11" width="1" height="1" fill="#6b300f"/>
+
+  <!-- Chip 2 (Center Right) -->
+  <rect x="19" y="12" width="4" height="3" fill="#1b0c04"/>
+  <rect x="20" y="13" width="4" height="3" fill="#381807"/>
+  <rect x="23" y="13" width="1" height="1" fill="#6b300f"/>
+
+  <!-- Chip 3 (Center Lower) -->
+  <rect x="13" y="17" width="4" height="4" fill="#1b0c04"/>
+  <rect x="14" y="18" width="4" height="4" fill="#381807"/>
+  <rect x="16" y="18" width="2" height="1" fill="#6b300f"/>
+
+  <!-- Chip 4 (Bottom Left) -->
+  <rect x="8" y="18" width="3" height="3" fill="#1b0c04"/>
+  <rect x="9" y="19" width="3" height="3" fill="#381807"/>
+
+  <!-- Chip 5 (Bottom Right) -->
+  <rect x="20" y="20" width="3" height="3" fill="#1b0c04"/>
+  <rect x="21" y="21" width="3" height="3" fill="#381807"/>
+
+  <!-- Pixel Magic Sparkles (#fff) -->
+  <rect x="24" y="4" width="2" height="2" fill="#fffbeb"/>
+  <rect x="23" y="5" width="4" height="1" fill="#fffbeb"/>
+  <rect x="28" y="2" width="1" height="1" fill="#fde68a"/>
+  <rect x="5" y="24" width="2" height="2" fill="#fffbeb"/>
+</svg>
