@@ -1,11 +1,13 @@
 <!-- ================================================================= -->
 <!-- 🍪 WELCOME TO COOKIE'S WARM BAKERY | GITHUB PROFILE README        -->
-<!-- Designed with Cozy Bakery & Warm Minecraft Shader Aesthetic       -->
+<!-- Designed with Cozy Bakery & Warm Minecraft Shader Aesthetic [10/10] -->
 <!-- ================================================================= -->
 
 <div align="center">
-  <!-- Warm Minecraft Shader Sunset Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1e18,65:78350f,85:b45309,100:f59e0b&height=240&section=header&text=%F0%9F%8D%AA%20Cookie's%20Warm%20Bakery%20%E2%9C%A8&fontSize=40&fontColor=fffbeb&animation=fadeIn&subtext=English%20Teacher%20%E2%80%A2%20Backend%20&%20AI%20Engineer%20%E2%80%A2%20Minecraft%20Artisan&subfontSize=17&subTextBonus=15" width="100%" alt="Cookie's Warm Bakery Banner" />
+  <!-- Bespoke Artisan Pixel Art & Sunset Minecraft Shader Banner -->
+  <a href="https://github.com/LoveCookieee-java">
+    <img src="./assets/banner.svg" width="100%" alt="Cookie's Warm Bakery & Workshop" />
+  </a>
 
   <!-- Cozy Bakery & Minecraft Badges Bar -->
   <p align="center">
@@ -69,6 +71,93 @@ current_focus:
 
 ---
 
+### 🧰 Hòm Đồ Tiệm Bánh (Minecraft Chest GUI & Project Lore)
+
+<div align="center">
+  <p><i>📦 <b>Container: Bakery Workshop Chest [Tier V]</b> — Chứa các vật phẩm & công trình tâm đắc nhất:</i></p>
+
+  <table border="0" style="border: 2px solid #542918; background-color: #1a1412; border-radius: 10px; width: 100%;">
+    <tr>
+      <td width="33%" align="center" style="padding: 12px; border: 1px solid #3d1d11; background-color: #231a16;">
+        <b>🍪 [CookieGli]</b> <br />
+        <small><font color="#f59e0b">★ Rarity: Mythic Artifact ★</font></small><br />
+        <code>Stack: x64 | Python</code>
+        <br /><br />
+        <div align="left" style="font-size: 12px; color: #fde68a;">
+          • <b>Công năng:</b> Nén toàn bộ mã nguồn repo thành genome ≤600 tokens.<br />
+          • <b>Đặc tính:</b> Tiến hóa trí nhớ Darwinian với Bayesian Smoothed ROI cho AI Agent.
+        </div>
+        <br />
+        <a href="https://github.com/LoveCookieee-java/CookieGli"><b>👉 Xem mã nguồn</b></a>
+      </td>
+      <td width="33%" align="center" style="padding: 12px; border: 1px solid #3d1d11; background-color: #231a16;">
+        <b>⚔️ [CookieDuel]</b> <br />
+        <small><font color="#38bdf8">★ Rarity: Legendary Weapon ★</font></small><br />
+        <code>Stack: x1 | Java</code>
+        <br /><br />
+        <div align="left" style="font-size: 12px; color: #fde68a;">
+          • <b>Công năng:</b> Hệ thống thách đấu PVP đỉnh cao cho Spigot.<br />
+          • <b>Đặc tính:</b> Tích hợp 2 chế độ ghép trận: Wild RTP Queue &amp; PVP Arena Queue mượt mà.
+        </div>
+        <br />
+        <a href="https://github.com/LoveCookieee-java/CookieDuel"><b>👉 Xem mã nguồn</b></a>
+      </td>
+      <td width="33%" align="center" style="padding: 12px; border: 1px solid #3d1d11; background-color: #231a16;">
+        <b>🌀 [CookiePortal]</b> <br />
+        <small><font color="#c084fc">★ Rarity: Epic Transport ★</font></small><br />
+        <code>Stack: x16 | Java</code>
+        <br /><br />
+        <div align="left" style="font-size: 12px; color: #fde68a;">
+          • <b>Công năng:</b> Đưa cơ chế cổng không gian Immersive Portal lên server.<br />
+          • <b>Đặc tính:</b> Hoạt động 100% bằng plugin Spigot, người chơi không cần cài mod client.
+        </div>
+        <br />
+        <a href="https://github.com/LoveCookieee-java/CookiePortal"><b>👉 Xem mã nguồn</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center" style="padding: 12px; border: 1px solid #3d1d11; background-color: #231a16;">
+        <b>🍳 [CookieCooking]</b> <br />
+        <small><font color="#4ade80">★ Rarity: Culinary Magic ★</font></small><br />
+        <code>Stack: x32 | Python</code>
+        <br /><br />
+        <div align="left" style="font-size: 12px; color: #fde68a;">
+          • <b>Công năng:</b> Cơ chế nấu nướng ẩm thực tương tác trên PySpigot.<br />
+          • <b>Đặc tính:</b> Công thức thủ công, hiệu ứng nướng bánh và buff chỉ số người chơi.
+        </div>
+        <br />
+        <a href="https://github.com/LoveCookieee-java/CookieCooking"><b>👉 Xem mã nguồn</b></a>
+      </td>
+      <td width="33%" align="center" style="padding: 12px; border: 1px solid #3d1d11; background-color: #231a16;">
+        <b>🛡️ [AntiSpoofing]</b> <br />
+        <small><font color="#f87171">★ Rarity: Ancient Defense ★</font></small><br />
+        <code>Stack: x1 | Java / Security</code>
+        <br /><br />
+        <div align="left" style="font-size: 12px; color: #fde68a;">
+          • <b>Công năng:</b> Tường lửa phòng thủ mạng và bảo mật gói tin.<br />
+          • <b>Đặc tính:</b> Giám sát packet level, chặn giả mạo danh tính và can thiệp trái phép.
+        </div>
+        <br />
+        <font color="#f59e0b"><i>♨️ Đang trong lò nướng (Dev)</i></font>
+      </td>
+      <td width="33%" align="center" style="padding: 12px; border: 1px solid #3d1d11; background-color: #231a16;">
+        <b>🏰 [CookieDungeon]</b> <br />
+        <small><font color="#fbbf24">★ Rarity: Master Key ★</font></small><br />
+        <code>Stack: x3 | Minecraft RPG</code>
+        <br /><br />
+        <div align="left" style="font-size: 12px; color: #fde68a;">
+          • <b>Công năng:</b> Hệ thống hầm ngục thủ công phong phú, cơ chế Boss.<br />
+          • <b>Đặc tính:</b> Lối chơi chiến thuật theo tổ đội và phần thưởng ngẫu nhiên.
+        </div>
+        <br />
+        <font color="#f59e0b"><i>♨️ Đang trong lò nướng (Dev)</i></font>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📊 Bảng Thống Kê Tiệm Bánh (Bakery Telemetry Matrix)
 
 <div align="center">
@@ -102,6 +191,20 @@ current_focus:
 
 ---
 
+### 🧱 Bản Đồ Đóng Góp 3D Minecraft (3D Voxel Contribution Blocks)
+
+<div align="center">
+  <p><i>Mỗi commit tương ứng với một khối lập phương Isometric 3D vươn cao như một pháo đài Minecraft:</i></p>
+  <!-- Generated automatically by GitHub Action (.github/workflows/profile-3d.yml) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-gitblock.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
+    <img alt="Minecraft 3D Contribution Blocks" src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 ### 🐍 Rắn Săn Mẩu Bánh Quy (Bakery Contribution Snake)
 
 <div align="center">
@@ -119,54 +222,17 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Cookie%20Baker%20Wisdom&quote=Warm%20cookies%20and%20clean%20code%20make%20any%20stormy%20day%20brighter.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Cookie Baker Wisdom Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Kent%20Beck&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Kent Beck Wisdom" />
 </p>
 <!--END_SECTION:quote-->
-
----
-
-### 🍪 Những Mẻ Bánh Nổi Bật (Featured Creations)
-
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr border="0">
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/LoveCookieee-java/CookieGli">
-          <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=LoveCookieee-java&repo=CookieGli&bg_color=231d19&title_color=f59e0b&text_color=fef3c7&icon_color=d97706&border_color=78350f" width="100%" alt="CookieGli Pin" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/LoveCookieee-java/CookieDuel">
-          <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=LoveCookieee-java&repo=CookieDuel&bg_color=231d19&title_color=f59e0b&text_color=fef3c7&icon_color=d97706&border_color=78350f" width="100%" alt="CookieDuel Pin" />
-        </a>
-      </td>
-    </tr>
-    <tr border="0">
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/LoveCookieee-java/CookiePortal">
-          <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=LoveCookieee-java&repo=CookiePortal&bg_color=231d19&title_color=f59e0b&text_color=fef3c7&icon_color=d97706&border_color=78350f" width="100%" alt="CookiePortal Pin" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/LoveCookieee-java/CookieCooking">
-          <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=LoveCookieee-java&repo=CookieCooking&bg_color=231d19&title_color=f59e0b&text_color=fef3c7&icon_color=d97706&border_color=78350f" width="100%" alt="CookieCooking Pin" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-> **Đang trong lò nướng (In Development)**:
-> - 🏰 **CookieDungeon**: Hệ thống hầm ngục thủ công phong phú, thử thách chiến thuật cho người chơi.
-> - 🛡️ **AntiSpoofing**: Cơ chế phòng thủ và xác thực an ninh mạnh mẽ cho server.
 
 ---
 
 ### 🍵 Kết Nối & Thưởng Trà Cùng Thợ Bánh
 
 <div align="center">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-LoveCookieee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/vcfHaTVKmZ" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20Server-Tham%20gia%20ngay-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
   &nbsp;
   <a href="https://facebook.com" target="_blank">
@@ -180,6 +246,9 @@ current_focus:
   <a href="https://github.com/LoveCookieee-java" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-LoveCookieee--java-78350f?style=for-the-badge&logo=github&logoColor=fde68a" alt="GitHub" />
   </a>
+
+  <br /><br />
+  <p><i>☕ Ghé thăm server Discord <b><a href="https://discord.gg/vcfHaTVKmZ">Cookie Community</a></b> để cùng đàm đạo về Minecraft Plugin, AI Agents, chia sẻ dự án hoặc cùng học Tiếng Anh nhé!</i></p>
 </div>
 
 <br />

@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="100%" height="280">
+  <defs>
+    <!-- Sky Sunset Gradient (Warm Minecraft Shader) -->
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1c1326"/>
+      <stop offset="35%" stop-color="#4a1c32"/>
+      <stop offset="65%" stop-color="#993d28"/>
+      <stop offset="85%" stop-color="#d96b27"/>
+      <stop offset="100%" stop-color="#f5b84c"/>
+    </linearGradient>
+
+    <!-- Warm Oak Wood Plank Pattern -->
+    <linearGradient id="woodGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3d1d11"/>
+      <stop offset="50%" stop-color="#542918"/>
+      <stop offset="100%" stop-color="#3d1d11"/>
+    </linearGradient>
+
+    <!-- Lantern Glow Radial Gradient -->
+    <radialGradient id="lanternGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffe875" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#f59e0b" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#d97706" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Golden Cookie Gradient -->
+    <linearGradient id="cookieGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fed782"/>
+      <stop offset="50%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#78350f"/>
+    </linearGradient>
+
+    <!-- Drop Shadow Filter -->
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: 'Courier New', Courier, monospace, 'Segoe UI'; font-weight: 900; fill: #fffbeb; font-size: 34px; letter-spacing: 2px; }
+    .subtitle { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 600; fill: #fde68a; font-size: 15px; letter-spacing: 1px; }
+    .tagline { font-family: 'Segoe UI', -apple-system, sans-serif; font-style: italic; fill: #fef3c7; font-size: 13.5px; opacity: 0.95; }
+    .badge-text { font-family: 'Courier New', monospace; font-weight: 700; font-size: 12px; fill: #fff; }
+    
+    @keyframes flicker {
+      0%, 100% { opacity: 0.85; }
+      50% { opacity: 1.0; }
+    }
+    .lantern-light { animation: flicker 3s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Card with Rounded Corners -->
+  <rect width="900" height="280" rx="18" fill="url(#skyGrad)"/>
+
+  <!-- Pixelated Minecraft Mountain Silhouette -->
+  <path d="M0,220 L60,180 L120,205 L190,160 L260,195 L330,150 L400,185 L480,140 L560,175 L640,130 L730,170 L810,145 L900,180 L900,280 L0,280 Z" fill="#201124" opacity="0.75"/>
+  <path d="M0,240 L80,210 L160,225 L240,195 L320,215 L410,185 L500,210 L600,180 L700,205 L800,185 L900,210 L900,280 L0,280 Z" fill="#150a18" opacity="0.9"/>
+
+  <!-- Warm Minecraft Sun/Moon (Shader Glow) -->
+  <rect x="730" y="45" width="60" height="60" fill="#fffbeb" rx="4" opacity="0.95" filter="url(#shadow)"/>
+  <circle cx="760" cy="75" r="70" fill="url(#lanternGlow)" opacity="0.6"/>
+
+  <!-- Cozy Bakery House Pixel Silhouette on Right -->
+  <!-- Chimney -->
+  <rect x="670" y="110" width="24" height="60" fill="#381d18" stroke="#1f0f0c" stroke-width="2"/>
+  
+  <!-- Animated Smoke Particles -->
+  <circle cx="682" cy="100" r="6" fill="#fef3c7" opacity="0.6">
+    <animate attributeName="cy" values="100;70;40" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.3;0" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="6;10;15" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="682" cy="85" r="7" fill="#fef3c7" opacity="0.5">
+    <animate attributeName="cy" values="85;55;25" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.2;0" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="7;12;18" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bakery Roof -->
+  <polygon points="620,170 710,120 800,170" fill="#54231b" stroke="#31130e" stroke-width="3"/>
+  
+  <!-- Bakery Wall -->
+  <rect x="635" y="170" width="150" height="90" fill="#42251a" stroke="#2b160e" stroke-width="3"/>
+  
+  <!-- Glowing Window with Warm Light -->
+  <rect x="655" y="190" width="35" height="35" fill="#fde68a" stroke="#2b160e" stroke-width="3"/>
+  <line x1="672.5" y1="190" x2="672.5" y2="225" stroke="#2b160e" stroke-width="3"/>
+  <line x1="655" y1="207.5" x2="690" y2="207.5" stroke="#2b160e" stroke-width="3"/>
+  <circle cx="672" cy="207" r="35" fill="url(#lanternGlow)" opacity="0.5" class="lantern-light"/>
+
+  <!-- Bakery Door -->
+  <rect x="715" y="200" width="30" height="60" fill="#2d170e" stroke="#1d0c06" stroke-width="2"/>
+  <circle cx="722" cy="230" r="3" fill="#f59e0b"/>
+
+  <!-- Hanging Lantern from Porch -->
+  <rect x="745" y="165" width="25" height="5" fill="#2d170e"/>
+  <line x1="757" y1="170" x2="757" y2="185" stroke="#1d0c06" stroke-width="2"/>
+  <rect x="750" y="185" width="14" height="20" rx="3" fill="#f59e0b" stroke="#381d18" stroke-width="2"/>
+  <circle cx="757" cy="195" r="30" fill="url(#lanternGlow)" opacity="0.8" class="lantern-light"/>
+
+  <!-- Ground Layer (Cozy Grass / Soil Blocks) -->
+  <rect x="0" y="260" width="900" height="20" fill="#2d160e"/>
+  <rect x="0" y="258" width="900" height="4" fill="#65a30d"/>
+
+  <!-- ================= HEADER CONTENT (LEFT) ================= -->
+  
+  <!-- Giant Pixel Golden Cookie Icon -->
+  <g transform="translate(45, 38)" filter="url(#shadow)">
+    <!-- Cookie Outer -->
+    <circle cx="36" cy="36" r="34" fill="url(#cookieGrad)" stroke="#451a03" stroke-width="4"/>
+    <!-- Chocolate Chips -->
+    <rect x="22" y="20" width="8" height="8" rx="2" fill="#311508"/>
+    <rect x="42" y="22" width="7" height="9" rx="2" fill="#311508"/>
+    <rect x="26" y="42" width="9" height="7" rx="2" fill="#311508"/>
+    <rect x="46" y="40" width="8" height="8" rx="2" fill="#311508"/>
+    <rect x="34" y="32" width="6" height="6" rx="2" fill="#311508"/>
+    <!-- Cute Smile -->
+    <path d="M 28 50 Q 36 56 44 50" stroke="#451a03" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Sparkles -->
+    <polygon points="76,14 80,6 84,14 92,18 84,22 80,30 76,22 68,18" fill="#fde68a"/>
+  </g>
+
+  <!-- Title Text -->
+  <text x="145" y="70" class="title" filter="url(#shadow)">COOKIE'S WARM BAKERY</text>
+  <text x="145" y="98" class="subtitle">☕ Minecraft Artisan &amp; System Workshop ⛏️</text>
+
+  <!-- Badges Ribbon -->
+  <g transform="translate(145, 120)">
+    <!-- Badge 1: English Teacher -->
+    <rect x="0" y="0" width="138" height="26" rx="6" fill="#1e3a29" stroke="#65a30d" stroke-width="1.5"/>
+    <text x="10" y="17" class="badge-text">📚 English Teacher</text>
+
+    <!-- Badge 2: Java Specialist -->
+    <rect x="146" y="0" width="138" height="26" rx="6" fill="#3b1d11" stroke="#b45309" stroke-width="1.5"/>
+    <text x="156" y="17" class="badge-text">☕ Java Specialist</text>
+
+    <!-- Badge 3: Backend & AI -->
+    <rect x="292" y="0" width="150" height="26" rx="6" fill="#24193d" stroke="#8b5cf6" stroke-width="1.5"/>
+    <text x="302" y="17" class="badge-text">🧠 Backend &amp; AI/ML</text>
+  </g>
+
+  <!-- Vibe Description / Tagline -->
+  <g transform="translate(145, 172)">
+    <text x="0" y="0" class="tagline">"Where linguistic clarity meets clean Java architecture."</text>
+    <text x="0" y="24" class="tagline">Crafting heartfelt Minecraft plugins, AI agent genomes &amp; scalable systems.</text>
+  </g>
+
+  <!-- Status Indicator in Bottom Left -->
+  <g transform="translate(45, 225)">
+    <circle cx="8" cy="8" r="6" fill="#10b981">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="22" y="13" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="12" fill="#ecfdf5">Oven Temperature: 100% Ready • Serving Fresh Code Daily</text>
+  </g>
+
+  <!-- Rustic Frame Border -->
+  <rect x="2" y="2" width="896" height="276" rx="16" fill="none" stroke="#542918" stroke-width="4"/>
+  <rect x="6" y="6" width="888" height="268" rx="12" fill="none" stroke="#d97706" stroke-width="1" stroke-dasharray="8,4" opacity="0.5"/>
+</svg>
