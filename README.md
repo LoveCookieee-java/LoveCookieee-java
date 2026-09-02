@@ -4,10 +4,12 @@
 <!-- ================================================================= -->
 
 <div align="center">
-  <!-- Bespoke Artisan Pixel Art & Sunset Minecraft Shader Banner -->
+  <!-- Breathtaking Cinematic Minecraft Shader Sunset Banner -->
   <a href="https://github.com/LoveCookieee-java">
-    <img src="./assets/banner.svg" width="100%" alt="Cookie's Warm Bakery & Workshop" />
+    <img src="./assets/banner.png" width="100%" alt="Cookie's Warm Bakery &amp; Workshop" style="border-radius: 12px;" />
   </a>
+
+  <br /><br />
 
   <!-- Cozy Bakery & Minecraft Badges Bar -->
   <p align="center">
@@ -23,9 +25,25 @@
 
 ### ☕ Giới thiệu về Tiệm Bánh & Người Thợ Thủ Công
 
-<p align="left">
-  Chào mừng bạn ghé thăm tiệm bánh nhỏ ấm cúng của mình giữa thế giới mã nguồn! Mình là một <b>Giáo viên Tiếng Anh</b> yêu thích công nghệ, một <b>Backend & AI/ML Engineer</b> say mê nghệ thuật lập trình và "vibe code". Mình luôn khao khát nhào nặn nên những sản phẩm thật chỉn chu, mang lại giá trị hữu ích và hỗ trợ cộng đồng hết mình. 🍪✨
-</p>
+<table border="0" style="border: none;">
+  <tr border="0">
+    <td width="28%" align="center" style="border: none; vertical-align: middle;">
+      <a href="https://github.com/LoveCookieee-java">
+        <img src="./assets/cookie_mascot.png" width="190" alt="Artisan Cookie Mascot" style="border-radius: 50%; border: 3px solid #d97706;" />
+      </a>
+      <br />
+      <small><font color="#f59e0b"><b>🍪 Freshly Baked With Love</b></font></small>
+    </td>
+    <td width="72%" style="border: none; vertical-align: middle; padding-left: 20px;">
+      <p align="left">
+        Chào mừng bạn ghé thăm tiệm bánh nhỏ ấm cúng của mình giữa thế giới mã nguồn! Mình là một <b>Giáo viên Tiếng Anh</b> yêu thích công nghệ, một <b>Backend &amp; AI/ML Engineer</b> say mê nghệ thuật lập trình và "vibe code". Mình luôn khao khát nhào nặn nên những sản phẩm thật chỉn chu, mang lại giá trị hữu ích và hỗ trợ cộng đồng hết mình. 🍪✨
+      </p>
+      <p align="left" style="color: #fde68a;">
+        <i>"The best code is like a freshly baked cookie: clean ingredients, crafted with patience, and served with love."</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ```yaml
 baker_profile:
@@ -74,7 +92,7 @@ current_focus:
 ### 🧰 Hòm Đồ Tiệm Bánh (Minecraft Chest GUI & Project Lore)
 
 <div align="center">
-  <p><i>📦 <b>Container: Bakery Workshop Chest [Tier V]</b> — Chứa các vật phẩm & công trình tâm đắc nhất:</i></p>
+  <p><i>📦 <b>Container: Bakery Workshop Chest [Tier V]</b> — Chứa các vật phẩm &amp; công trình tâm đắc nhất:</i></p>
 
   <table border="0" style="border: 2px solid #542918; background-color: #1a1412; border-radius: 10px; width: 100%;">
     <tr>
@@ -222,7 +240,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Kent%20Beck&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Kent Beck Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=LoveCookieee&quote=The%20best%20code%20is%20like%20a%20freshly%20baked%20cookie%3A%20simple%20ingredients%2C%20carefully%20crafted%2C%20and%20made%20with%20heart.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Daily Cookie Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
