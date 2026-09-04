@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Linus Torvalds Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Kent%20Beck&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Kent Beck Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
