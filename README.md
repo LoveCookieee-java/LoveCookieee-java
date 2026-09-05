@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Kent%20Beck&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Kent Beck Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=W.B.%20Yeats&quote=Education%20is%20not%20the%20filling%20of%20a%20pail%2C%20but%20the%20lighting%20of%20a%20fire.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="W.B. Yeats Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
