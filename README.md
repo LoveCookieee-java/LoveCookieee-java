@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Frank%20Smith&quote=One%20language%20sets%20you%20in%20a%20corridor%20for%20life.%20Two%20languages%20open%20every%20door%20along%20the%20way.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Frank Smith Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="John Johnson Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
