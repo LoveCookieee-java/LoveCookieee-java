@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Minecraft%20Craftsman&quote=In%20a%20world%20of%20pure%20imagination%2C%20every%20block%20placed%20with%20care%20shapes%20a%20kingdom.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Minecraft Craftsman Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Joseph%20Joubert&quote=To%20teach%20is%20to%20learn%20twice%20over.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Joseph Joubert Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
