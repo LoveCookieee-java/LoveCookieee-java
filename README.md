@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Antoine%20de%20Saint-Exup%C3%A9ry&quote=Perfection%20is%20achieved%20not%20when%20there%20is%20nothing%20more%20to%20add%2C%20but%20when%20there%20is%20nothing%20left%20to%20take%20away.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Antoine de Saint-Exupéry Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=W.B.%20Yeats&quote=Education%20is%20not%20the%20filling%20of%20a%20pail%2C%20but%20the%20lighting%20of%20a%20fire.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="W.B. Yeats Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
