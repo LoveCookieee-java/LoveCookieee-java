@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=LoveCookieee&quote=The%20best%20code%20is%20like%20a%20freshly%20baked%20cookie%3A%20simple%20ingredients%2C%20carefully%20crafted%2C%20and%20made%20with%20heart.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="LoveCookieee Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Harold%20Abelson&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Harold Abelson Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
