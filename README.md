@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Donald Knuth Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Edsger%20W.%20Dijkstra&quote=Simplicity%20is%20prerequisite%20for%20reliability.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Edsger W. Dijkstra Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
