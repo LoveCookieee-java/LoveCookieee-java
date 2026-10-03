@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Antoine%20de%20Saint-Exup%C3%A9ry&quote=Perfection%20is%20achieved%20not%20when%20there%20is%20nothing%20more%20to%20add%2C%20but%20when%20there%20is%20nothing%20left%20to%20take%20away.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Antoine de Saint-Exupéry Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Kent%20Beck&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Kent Beck Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
