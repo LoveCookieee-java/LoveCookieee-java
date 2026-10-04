@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Kent%20Beck&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Kent Beck Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=LoveCookieee&quote=The%20best%20code%20is%20like%20a%20freshly%20baked%20cookie%3A%20simple%20ingredients%2C%20carefully%20crafted%2C%20and%20made%20with%20heart.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="LoveCookieee Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
