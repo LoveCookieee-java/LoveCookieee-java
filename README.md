@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="John Johnson Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Linus Torvalds Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
