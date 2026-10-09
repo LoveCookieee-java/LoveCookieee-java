@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=W.B.%20Yeats&quote=Education%20is%20not%20the%20filling%20of%20a%20pail%2C%20but%20the%20lighting%20of%20a%20fire.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="W.B. Yeats Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Cookie%20Baker%20Wisdom&quote=Warm%20cookies%20and%20clean%20code%20make%20any%20stormy%20day%20brighter.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Cookie Baker Wisdom Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
