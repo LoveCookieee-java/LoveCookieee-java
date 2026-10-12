@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="John Johnson Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Cookie%20Baker%20Wisdom&quote=Warm%20cookies%20and%20clean%20code%20make%20any%20stormy%20day%20brighter.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Cookie Baker Wisdom Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
