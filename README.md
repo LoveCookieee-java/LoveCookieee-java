@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Cookie%20Baker%20Wisdom&quote=Warm%20cookies%20and%20clean%20code%20make%20any%20stormy%20day%20brighter.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Cookie Baker Wisdom Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Brad%20Henry&quote=A%20good%20teacher%20can%20inspire%20hope%2C%20ignite%20the%20imagination%2C%20and%20instill%20a%20love%20of%20learning.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Brad Henry Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
