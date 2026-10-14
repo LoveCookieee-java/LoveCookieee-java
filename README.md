@@ -238,7 +238,7 @@ current_focus:
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Brad%20Henry&quote=A%20good%20teacher%20can%20inspire%20hope%2C%20ignite%20the%20imagination%2C%20and%20instill%20a%20love%20of%20learning.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Brad Henry Wisdom" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Frank%20Smith&quote=One%20language%20sets%20you%20in%20a%20corridor%20for%20life.%20Two%20languages%20open%20every%20door%20along%20the%20way.&theme=dark&bg_color=231d19&author_color=f59e0b&accent_color=d97706" alt="Frank Smith Wisdom" />
 </p>
 <!--END_SECTION:quote-->
 
